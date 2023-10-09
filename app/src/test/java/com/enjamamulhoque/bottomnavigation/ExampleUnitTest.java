@@ -1,4 +1,4 @@
-package com.enjamamulhoque.bottomnavigationfeature;
+package com.enjamamulhoque.bottomnavigation;
 
 import org.junit.Test;
 
